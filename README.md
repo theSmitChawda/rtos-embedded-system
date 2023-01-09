@@ -12,6 +12,9 @@
 
 > Project Report: https://github.com/theSmitChawda/rtos-embedded-system/blob/master/ProjectReport_SmitChawda.docx
 
+---------------------------------------------------------------------------------------------------------------------
+
+### Task description:-
 
 Task1: TASK_READ_TEMP_POT_P - To read the instantaneous values of on-board potentiometer & temperature sensor
 
