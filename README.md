@@ -28,6 +28,6 @@ Task4: TASK_PRINT_TEMP_POT - Use the UART and send the data received from Task1.
 
 
 ----------------------------------------------------------------------------------------------------------------------
-Created by: Smit Chawda (Submitted to: Sheridan College - FAST)
+Created by: Smit Chawda (Submitted to: Sheridan College - F.A.S.T)
 
 
